@@ -4,14 +4,14 @@
 }
 
 body {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 main {
-    background-color: #000000;
+    background-color: #ffffff;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px #ffffff75;
+    box-shadow: 3px 3px 5px #00000075;
 
 }
